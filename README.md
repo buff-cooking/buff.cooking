@@ -1,10 +1,11 @@
-# Based Cooking Website
+# Buff Cooking Website
 
-[https://based.cooking](https://based.cooking)
+[https://buff.cooking](https://buff.cooking)
 
-This is a simple cooking website where users can submit recipes here for credit.
+This is a simple cooking website where users can submit recipes via git.
 There are no ads, trackers or cookies (unless recipes thereof).
 
+This site is a fork of [https://based.cooking](https://based.cooking).
 This site is compiled and organized with Hugo, using [this very simple theme](https://github.com/lukesmithxyz/lugo).
 
 ## Ways to contribute
@@ -20,21 +21,19 @@ This site is compiled and organized with Hugo, using [this very simple theme](ht
 - Model submission files after [example.md](example.md). Put them in `content/`.
 - File names should be the name of the dish with words separated by hyphens
   (`-`). Not underscores, and definitely not spaces.
-- Recipe must be "based," i.e. good traditional and substantial food. Nothing
-  ironic, meme-tier hyper-sugary, meat-substitute, etc.
+- Recipe must be "fitness" and "goal" oriented. Ideally healthy, i.e. indicate their nutrients and total kilocalorie.
+- ironic, meme-tier hyper-sugary, etc. might not be accepted
 - Don't include salt and pepper and other ubiquitous things in the ingredients
   list.
 - Don't include an image unless (1) you took it yourself, and more importantly
-  (2), **it actually looks good**! Most existing images on this site IMO look
-  like unappetizing NEET photos, so you are welcome to take one a better one
-  yourself and submit it if you make a dish. If you don't know if your image is
+  (2), **it actually looks good**! If you cook a recipe, feel free to make a better picture and replace it by submitting it through a PR. If you don't know if your image is
   good, please have a real-live woman in real life approve your photo before
   you submit it. I'm serious about this, it's a waste for me to wade through
   disgusting photos in PRs.
 - The file needs to be `\n` terminated in unix-fashion (if you're on Linux you
   don't need to care, it should be automatic).
 
-**If you fail to do these things, I will close your submission and you will have to resubmit. I am tired of having to fix more than 50% of submissions.**
+**If you fail to do these things, I will close your submission and you will have to resubmit. I am not fixing any submissions.**
 
 You may include a json file with your personal links/donation addresses in
 `data/authors/your-name.json`. See mine (`data/authors/luke-smith.json`) for a
@@ -45,7 +44,9 @@ crypto addresses as `btc`, `xmr` and `eth`.
 
 Remember to add tags to your recipe, but try to use tags already used by other recipes.
 
-If your recipe contains no meat or dairy, include the `fasting` tag.
+If your recipe is vegetarian (i.e.: no meat, no fish - may include eggs or dairy if it uses microbial rennet), include the `vegetarian` tag.
+If your recipe is vegan (i.e.: no meat, no fish, no dairy, no egg), include the `vegan` tag.
+If your recipe follows a specific diet (e.g.: slow-carb, low-carb, keto, carnivore, etc.), include the correlating tag (i.e.: `slow-carb`, `low-carb`, etc.).
 If it includes dairy but no milk, include the `cheesefare` tag.
 
 ### Images

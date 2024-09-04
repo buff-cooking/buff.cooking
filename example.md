@@ -1,6 +1,6 @@
 ---
 title: Dish Title
-tags: ['beef', 'soup', 'german']
+tags: ["beef", "soup", "german"]
 date: 2022-02-20
 author: "Your Name"
 ---
@@ -13,6 +13,13 @@ You may also include prep/cook time and the number of servings as below:
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 30 min
 - 🍽️ Servings: 4
+
+## Macros per Serving
+
+- KCAL: 850
+- C: 39
+- F: 18
+- P: 45
 
 ## Ingredients
 

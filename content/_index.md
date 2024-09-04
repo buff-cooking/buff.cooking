@@ -1,6 +1,6 @@
 ---
-title: "🍲 Based Cooking 🍳"
-description: 'The fast-loading recipe site with cooking only and no ads.'
+title: "🍲 Buff Cooking 🍳"
+description: "The fast-loading fitness recipe site with cooking only and no ads."
 layout: single
 ---
 
@@ -64,22 +64,23 @@ document.addEventListener("DOMContentLoaded", () => {
 
 {{< artlist >}}
 
-## Or Browse by Category...
+## Or Browse by Category
 
 {{< tagcloud >}}
 
 ## About this site
 
-Founded to provide a simple online cookbook without ads and obese web design.
-See the story of this site unfold in three videos:
+Forked from [Luke Smith's](https://lukesmith.xyz) [Based Cooking](https://based.cooking) to provide the fastest, simple online cookbook without ads and obese web design - preventing human obesity at the same time.
+
+This is the story of the original site unfolding in three videos:
 
 - [A Demonstration of Modern Web Bloat](https://odysee.com/@Luke:7/a-demonstration-of-modern-web-bloat:f)
 - [The War Against Web Bloat Continues...](https://odysee.com/@Luke:7/the-war-against-web-bloat-continues...:a)
 - [SoyDevs DESTROYED Epic Style by Based Cooking!](https://odysee.com/@Luke:7/soydevs-destroyed-epic-style-by-based:6)
 
-## It's easy to contribute!
+## It's easy to contribute
 
-New recipes can be submitted [on Github](https://github.com/lukesmithxyz/based.cooking).
+New recipes can be submitted [on Github](https://github.com/buff-cooking/buff.cooking).
 We are funded by you only, not 20MB of ads or privacy-violating trackers per page.
 
 {{< crypto >}}
