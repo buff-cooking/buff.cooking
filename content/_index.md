@@ -82,5 +82,3 @@ This is the story of the original site unfolding in three videos:
 
 New recipes can be submitted [on Github](https://github.com/buff-cooking/buff.cooking).
 We are funded by you only, not 20MB of ads or privacy-violating trackers per page.
-
-{{< crypto >}}
