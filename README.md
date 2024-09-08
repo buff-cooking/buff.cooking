@@ -70,6 +70,11 @@ they should be numbered with two digits like: `pix/chicken-parmesan-01.webp`, et
 Note also that images should have links beginning with a slash in this use
 case, i.e. `/pix/...`.
 
+## Support
+
+To support this endeavor:
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z7132VED)
+
 ## License
 
 This website and all its content is in the public domain.

@@ -82,3 +82,11 @@ This is the story of the original site unfolding in three videos:
 
 New recipes can be submitted [on Github](https://github.com/buff-cooking/buff.cooking).
 We are funded by you only, not 20MB of ads or privacy-violating trackers per page.
+
+## Support us
+
+<div style="text-align: center; margin-bottom: 25px;">
+
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support buff.cooking on Ko-fi', '#29abe0', 'Z8Z7132VED');kofiwidget2.draw();</script>
+
+</div>
