@@ -1,4 +1,4 @@
-baseURL = 'https://buff.cooking/'
+baseURL = 'https://buff-cooking.github.io/'
 languageCode = 'en-us'
 title = 'Buff Cooking'
 theme = 'lugo'

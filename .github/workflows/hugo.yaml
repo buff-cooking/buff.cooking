@@ -42,10 +42,6 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
-      - name: Checkout Theme
-        run: git clone https://github.com/lukesmithxyz/lugo themes/lugo
-      - name: Copy Css from Theme
-        run: cp themes/lugo/static/style.css static/
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
