@@ -8,7 +8,7 @@ author: 23Ro
 
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 60-120 min
-- 🍽️ Servings: 4
+- 🍽️ Servings: 1
 
 ## Macros per Servings
 
